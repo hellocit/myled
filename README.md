@@ -1,6 +1,7 @@
 # myled
-ロボットシステム学課題1
-2021年度ロボットシステム学の課題1で作成したデバイスドライバです。
+2021年度ロボットシステム学の課題1で
+https://github.com/ryuichiueda/robosys_device_drivers/blob/master/myled10.c
+を引用して作成したデバイスドライバです。
 
 echo 1 > /dev/myled0　で点灯し、
 echo 0 > /dev/myled0　で消灯します。
