@@ -21,6 +21,8 @@ LED × 1
 
 ジャンパー線（オス-メス）× 2
 
+# 結果
+https://www.youtube.com/watch?v=7Pz6e2-GdxM
 # ライセンス
 https://github.com/hellocit/myled/blob/main/COPYING
 # 作成するにあたり引用したプログラム
