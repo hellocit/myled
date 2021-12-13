@@ -12,15 +12,15 @@ Raspberry Pi 4 Model B
 OS : ubuntu 20.04 server
 
 使用したもの
-Raspberry Pi 4 Model B × 1
+・Raspberry Pi 4 Model B × 1
 
-LED × 1
+・LED × 1
 
-抵抗400Ω × 4
+・抵抗400Ω × 4
 
-ブレッドボード × 1
+・ブレッドボード × 1
 
-ジャンパー線（オス-メス）× 2
+・ジャンパー線（オス-メス）× 2
 # 回路図
 ![robosis](https://user-images.githubusercontent.com/91714744/145830010-5c700ab9-eeb2-4f1c-ba59-2d3dc1206ba5.png)
 # プログラムの実行方法
