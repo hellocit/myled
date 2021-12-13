@@ -12,6 +12,8 @@ Raspberry Pi 4 Model B
 OS : ubuntu 20.04 server
 
 使用したもの
+
+
 ・Raspberry Pi 4 Model B × 1
 
 ・LED × 1
