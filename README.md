@@ -25,6 +25,9 @@ LED × 1
 ![robosis](https://user-images.githubusercontent.com/91714744/145830010-5c700ab9-eeb2-4f1c-ba59-2d3dc1206ba5.png)
 # プログラムの実行方法
 ## ［インストール］
+```
+git@github.com:hellocit/myled.git
+```
 ## ［アンインストール］
 ## ［実行］
 ## LEDを点灯するコマンド
