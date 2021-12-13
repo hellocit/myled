@@ -21,7 +21,8 @@ LED × 1
 ブレッドボード × 1
 
 ジャンパー線（オス-メス）× 2
-
+# 回路図
+![robosis](https://user-images.githubusercontent.com/91714744/145830010-5c700ab9-eeb2-4f1c-ba59-2d3dc1206ba5.png)
 # 結果
 https://www.youtube.com/watch?v=7Pz6e2-GdxM
 # ライセンス
