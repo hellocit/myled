@@ -26,7 +26,7 @@ LED × 1
 # プログラムの実行方法
 ## ［インストール］
 ```
-git@github.com:hellocit/myled.git
+git clone git@github.com:hellocit/myled.git
 
 cd myled
 
