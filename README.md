@@ -27,11 +27,32 @@ LED × 1
 ## ［インストール］
 ```
 git@github.com:hellocit/myled.git
+
+cd myled
+
+make
+
+sudo insmod myled.ko
+
+sudo chmod 666 /dev/myled0
 ```
 ## ［アンインストール］
+
+```
+sudo rmmod myled
+
+make clean
+```
+
 ## ［実行］
 ## LEDを点灯するコマンド
+```
+echo 1 > /dev/myled0
+```
 ## LEDを消灯するコマンド
+```
+echo 0 > /dev/myled0
+```
 ## ［実行］
 
 
