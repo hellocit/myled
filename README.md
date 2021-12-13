@@ -23,6 +23,15 @@ LED × 1
 ジャンパー線（オス-メス）× 2
 # 回路図
 ![robosis](https://user-images.githubusercontent.com/91714744/145830010-5c700ab9-eeb2-4f1c-ba59-2d3dc1206ba5.png)
+# プログラムの実行方法
+#［インストール］
+#［アンインストール］
+#［実行］
+#　LEDを点灯するコマンド
+#　LEDを消灯するコマンド
+#［実行］
+
+
 # 結果
 https://www.youtube.com/watch?v=7Pz6e2-GdxM
 # ライセンス
