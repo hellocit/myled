@@ -57,7 +57,7 @@ echo 0 > /dev/myled0
 ```
 
 # 結果
-https://www.youtube.com/watch?v=7Pz6e2-GdxM
+https://www.youtube.com/watch?v=qx7kacyVDzc
 # ライセンス
 https://github.com/hellocit/myled/blob/main/COPYING
 # 作成するにあたり引用したプログラム
